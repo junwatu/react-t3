@@ -23,8 +23,9 @@ Box.Application.addService('paribasa', function (application) {
       )
     }
   })
-  */
-  class Paribasa extends React.Component {
+*/
+
+  class Pepatah extends React.Component {
     constructor(props) {
       super(props)
     }
@@ -43,6 +44,6 @@ Box.Application.addService('paribasa', function (application) {
       )
     }
   }
-
-  return Paribasa
+  
+  return Pepatah
 })
